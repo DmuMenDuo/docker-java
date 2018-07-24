@@ -32,3 +32,4 @@
   ** Remove `travis-logback.xml` replacement (build can't output everything in every run because travis has log limitation).
   ** Set single test in `pom.xml` `for maven-failsafe-plugin`
   ** Make PR or if you are maintainer push to branch, catch log and fix.
+
